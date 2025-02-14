@@ -1,6 +1,6 @@
 # LLM from Scratch - Notes & Code Implementation  
 
-This repository contains my **detailed code implementations** from the *"LLM from Scratch"* YouTube series by **Vizuara**, which is based on the book *LLM from Scratch* by **Sebastian Raschka**.  
+This repository contains **detailed code implementations** from the *"LLM from Scratch"* YouTube series by **Vizuara**, which is based on the book *LLM from Scratch* by **Sebastian Raschka**.  
 
 ## 📂 Contents  
 
